@@ -1,0 +1,294 @@
+2017-11-03 15:05 +08:00: [0mGET / [31m500 [0m17.881 ms - 1232[0m
+2017-11-03 15:06 +08:00: 2017-11-03 03:06:19
+2017-11-03 15:06 +08:00: [0mGET / [32m200 [0m16.639 ms - 207[0m
+2017-11-03 15:06 +08:00: [0mGET /stylesheets/style.css [36m304 [0m2.748 ms - -[0m
+2017-11-03 15:15 +08:00: 连接成功！
+2017-11-03 15:15 +08:00: { result: { ok: 1, n: 2 },
+  ops: 
+   [ { name: '菜鸟教程',
+       url: 'www.runoob.com',
+       _id: 59fc17804b1bb96dd8ebb645 },
+     { name: '菜鸟工具',
+       url: 'c.runoob.com',
+       _id: 59fc17804b1bb96dd8ebb646 } ],
+  insertedCount: 2,
+  insertedIds: [ 59fc17804b1bb96dd8ebb645, 59fc17804b1bb96dd8ebb646 ] }
+2017-11-03 15:15 +08:00: 连接成功！
+2017-11-03 15:15 +08:00: { result: { ok: 1, n: 2 },
+  ops: 
+   [ { name: '菜鸟教程',
+       url: 'www.runoob.com',
+       _id: 59fc178cf629aa6ddbb8d6f3 },
+     { name: '菜鸟工具',
+       url: 'c.runoob.com',
+       _id: 59fc178cf629aa6ddbb8d6f4 } ],
+  insertedCount: 2,
+  insertedIds: [ 59fc178cf629aa6ddbb8d6f3, 59fc178cf629aa6ddbb8d6f4 ] }
+2017-11-03 15:17 +08:00: 连接成功！
+2017-11-03 15:17 +08:00: { result: { ok: 1, n: 2 },
+  ops: 
+   [ { name: '菜鸟教程',
+       url: 'www.runoob.com',
+       _id: 59fc180c9789da6df9810abe },
+     { name: '菜鸟工具',
+       url: 'c.runoob.com',
+       _id: 59fc180c9789da6df9810abf } ],
+  insertedCount: 2,
+  insertedIds: [ 59fc180c9789da6df9810abe, 59fc180c9789da6df9810abf ] }
+2017-11-03 15:17 +08:00: [0mGET / [31m500 [0m23.698 ms - 1318[0m
+2017-11-03 15:19 +08:00: [0mGET / [32m200 [0m23.871 ms - 207[0m
+2017-11-03 15:19 +08:00: 连接成功！
+2017-11-03 15:19 +08:00: [0mGET /stylesheets/style.css [36m304 [0m14.347 ms - -[0m
+2017-11-03 15:19 +08:00: { result: { ok: 1, n: 2 },
+  ops: 
+   [ { name: '菜鸟教程',
+       url: 'www.runoob.com',
+       _id: 59fc187bc149226e0a0ea7b9 },
+     { name: '菜鸟工具',
+       url: 'c.runoob.com',
+       _id: 59fc187bc149226e0a0ea7ba } ],
+  insertedCount: 2,
+  insertedIds: [ 59fc187bc149226e0a0ea7b9, 59fc187bc149226e0a0ea7ba ] }
+2017-11-03 15:20 +08:00: [0mGET / [36m304 [0m37.470 ms - -[0m
+2017-11-03 15:20 +08:00: 连接成功！
+2017-11-03 15:20 +08:00: ....
+2017-11-03 15:20 +08:00: [0mGET /stylesheets/style.css [36m304 [0m14.019 ms - -[0m
+2017-11-03 15:20 +08:00: { result: { ok: 1, n: 2 },
+  ops: 
+   [ { name: '菜鸟教程',
+       url: 'www.runoob.com',
+       _id: 59fc18cb50b5b76e1da910dc },
+     { name: '菜鸟工具',
+       url: 'c.runoob.com',
+       _id: 59fc18cb50b5b76e1da910dd } ],
+  insertedCount: 2,
+  insertedIds: [ 59fc18cb50b5b76e1da910dc, 59fc18cb50b5b76e1da910dd ] }
+2017-11-03 15:21 +08:00: [0mGET / [36m304 [0m5.624 ms - -[0m
+2017-11-03 15:21 +08:00: 连接成功！
+2017-11-03 15:21 +08:00: ....
+2017-11-03 15:21 +08:00: [0mGET /stylesheets/style.css [36m304 [0m0.653 ms - -[0m
+2017-11-03 15:21 +08:00: { result: { ok: 1, n: 2 },
+  ops: 
+   [ { name: '菜鸟教程',
+       url: 'www.runoob.com',
+       _id: 59fc18fe50b5b76e1da910de },
+     { name: '菜鸟工具',
+       url: 'c.runoob.com',
+       _id: 59fc18fe50b5b76e1da910df } ],
+  insertedCount: 2,
+  insertedIds: [ 59fc18fe50b5b76e1da910de, 59fc18fe50b5b76e1da910df ] }
+2017-11-03 15:24 +08:00: [0mGET / [36m304 [0m34.649 ms - -[0m
+2017-11-03 15:24 +08:00: 连接成功！
+2017-11-03 15:24 +08:00: [0mGET / [36m304 [0m26.751 ms - -[0m
+2017-11-03 15:24 +08:00: 连接成功！
+2017-11-03 15:24 +08:00: [0mGET / [36m304 [0m38.000 ms - -[0m
+2017-11-03 15:24 +08:00: { MongoError: failed to connect to server [localhost:27012] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27012]
+    at Pool.<anonymous> (/Users/admin/Documents/work/nodejs项目/trycenter/node_modules/mongodb-core/lib/topologies/server.js:336:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/Users/admin/Documents/work/nodejs项目/trycenter/node_modules/mongodb-core/lib/connection/pool.js:280:12)
+    at Connection.g (events.js:292:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/Users/admin/Documents/work/nodejs项目/trycenter/node_modules/mongodb-core/lib/connection/connection.js:187:49)
+    at Socket.g (events.js:292:16)
+    at emitOne (events.js:96:13)
+  name: 'MongoError',
+  message: 'failed to connect to server [localhost:27012] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27012]' }
+2017-11-03 15:24 +08:00: [0mGET /stylesheets/style.css [36m304 [0m3.109 ms - -[0m
+2017-11-03 15:25 +08:00: [0mGET / [36m304 [0m35.419 ms - -[0m
+2017-11-03 15:25 +08:00: [0mGET /stylesheets/style.css [36m304 [0m2.201 ms - -[0m
+2017-11-03 15:25 +08:00: [0mGET / [36m304 [0m4.852 ms - -[0m
+2017-11-03 15:25 +08:00: [0mGET /stylesheets/style.css [36m304 [0m0.511 ms - -[0m
+2017-11-03 15:25 +08:00: [0mGET / [36m304 [0m27.714 ms - -[0m
+2017-11-03 15:25 +08:00: 连接成功！
+2017-11-03 15:25 +08:00: ....
+2017-11-03 15:25 +08:00: [0mGET /stylesheets/style.css [36m304 [0m13.602 ms - -[0m
+2017-11-03 15:25 +08:00: { result: { ok: 1, n: 2 },
+  ops: 
+   [ { name: '菜鸟教程',
+       url: 'www.runoob.com',
+       _id: 59fc1a04b4c6a16e5f496a9f },
+     { name: '菜鸟工具',
+       url: 'c.runoob.com',
+       _id: 59fc1a04b4c6a16e5f496aa0 } ],
+  insertedCount: 2,
+  insertedIds: [ 59fc1a04b4c6a16e5f496a9f, 59fc1a04b4c6a16e5f496aa0 ] }
+2017-11-03 15:30 +08:00: 连接成功！
+2017-11-03 15:33 +08:00: 连接成功！
+2017-11-03 15:33 +08:00: 连接成功！
+2017-11-03 15:36 +08:00: 连接成功！
+2017-11-03 15:36 +08:00: [0mGET / [31m500 [0m13.535 ms - 2013[0m
+2017-11-03 15:53 +08:00: 连接成功！
+2017-11-03 15:53 +08:00: { connect: 
+   Promise {
+     _bitField: 33554432,
+     _fulfillmentHandler0: undefined,
+     _rejectionHandler0: 
+      Db {
+        domain: null,
+        _events: {},
+        _eventsCount: 0,
+        _maxListeners: undefined,
+        s: [Object],
+        serverConfig: [Getter],
+        bufferMaxEntries: [Getter],
+        databaseName: [Getter] },
+     _promise0: undefined,
+     _receiver0: undefined },
+  insert: [Function] }
+2017-11-03 15:53 +08:00: [0mGET / [32m200 [0m16.353 ms - 207[0m
+2017-11-03 15:53 +08:00: [0mGET /stylesheets/style.css [36m304 [0m2.587 ms - -[0m
+2017-11-03 15:53 +08:00: 连接成功！
+2017-11-03 15:53 +08:00: { connect: 
+   Promise {
+     _bitField: 33554432,
+     _fulfillmentHandler0: undefined,
+     _rejectionHandler0: 
+      Db {
+        domain: null,
+        _events: {},
+        _eventsCount: 0,
+        _maxListeners: undefined,
+        s: [Object],
+        serverConfig: [Getter],
+        bufferMaxEntries: [Getter],
+        databaseName: [Getter] },
+     _promise0: undefined,
+     _receiver0: undefined },
+  insert: [Function] }
+2017-11-03 15:53 +08:00: [0mGET / [36m304 [0m18.435 ms - -[0m
+2017-11-03 15:53 +08:00: { '0': 
+   Db {
+     domain: null,
+     _events: {},
+     _eventsCount: 0,
+     _maxListeners: undefined,
+     s: 
+      { databaseName: 'qj',
+        dbCache: {},
+        children: [],
+        topology: [Object],
+        options: [Object],
+        logger: [Object],
+        bson: BSON {},
+        authSource: undefined,
+        readPreference: [Object],
+        bufferMaxEntries: -1,
+        parentDb: null,
+        pkFactory: undefined,
+        nativeParser: undefined,
+        promiseLibrary: [Function: Promise],
+        noListener: false,
+        readConcern: undefined },
+     serverConfig: [Getter],
+     bufferMaxEntries: [Getter],
+     databaseName: [Getter] } }
+2017-11-03 15:53 +08:00: [0mGET /stylesheets/style.css [36m304 [0m2.150 ms - -[0m
+2017-11-03 15:57 +08:00: 连接成功！
+2017-11-03 15:57 +08:00: { connect: 
+   Promise {
+     _bitField: 33554432,
+     _fulfillmentHandler0: undefined,
+     _rejectionHandler0: 
+      Db {
+        domain: null,
+        _events: {},
+        _eventsCount: 0,
+        _maxListeners: undefined,
+        s: [Object],
+        serverConfig: [Getter],
+        bufferMaxEntries: [Getter],
+        databaseName: [Getter] },
+     _promise0: undefined,
+     _receiver0: undefined },
+  insert: [Function] }
+2017-11-03 15:57 +08:00: [0mGET / [36m304 [0m15.858 ms - -[0m
+2017-11-03 15:57 +08:00: [0mGET /stylesheets/style.css [36m304 [0m2.351 ms - -[0m
+2017-11-03 15:57 +08:00: 连接成功！
+2017-11-03 15:57 +08:00: 连接成功！
+2017-11-03 15:57 +08:00: { connect: 
+   Promise {
+     _bitField: 33554432,
+     _fulfillmentHandler0: undefined,
+     _rejectionHandler0: 
+      Db {
+        domain: null,
+        _events: {},
+        _eventsCount: 0,
+        _maxListeners: undefined,
+        s: [Object],
+        serverConfig: [Getter],
+        bufferMaxEntries: [Getter],
+        databaseName: [Getter] },
+     _promise0: undefined,
+     _receiver0: undefined },
+  insert: [Function] }
+2017-11-03 15:57 +08:00: [0mGET / [36m304 [0m16.703 ms - -[0m
+2017-11-03 15:57 +08:00: { result: { ok: 1, n: 1 },
+  ops: [ { name: 'json', _id: 59fc217843fbc06f9136dd22 } ],
+  insertedCount: 1,
+  insertedIds: [ 59fc217843fbc06f9136dd22 ] }
+2017-11-03 15:57 +08:00: [0mGET /stylesheets/style.css [36m304 [0m7.758 ms - -[0m
+2017-11-03 15:57 +08:00: { result: { ok: 1, n: 1 },
+  ops: [ { name: 'json', _id: 59fc217843fbc06f9136dd22 } ],
+  insertedCount: 1,
+  insertedIds: [ 59fc217843fbc06f9136dd22 ] }
+2017-11-03 15:58 +08:00: 连接成功！
+2017-11-03 15:58 +08:00: [0mGET / [36m304 [0m16.121 ms - -[0m
+2017-11-03 15:58 +08:00: { result: { ok: 1, n: 1 },
+  ops: [ { name: 'json', _id: 59fc218ff01d2f6f9a2691ce } ],
+  insertedCount: 1,
+  insertedIds: [ 59fc218ff01d2f6f9a2691ce ] }
+2017-11-03 15:58 +08:00: [0mGET /stylesheets/style.css [36m304 [0m10.159 ms - -[0m
+2017-11-03 15:58 +08:00: { result: { ok: 1, n: 1 },
+  ops: [ { name: 'json', _id: 59fc218ff01d2f6f9a2691ce } ],
+  insertedCount: 1,
+  insertedIds: [ 59fc218ff01d2f6f9a2691ce ] }
+2017-11-03 15:58 +08:00: 连接成功！
+2017-11-03 15:58 +08:00: 连接成功！
+2017-11-03 15:59 +08:00: 连接成功！
+2017-11-03 16:44 +08:00: 连接成功！
+2017-11-03 16:44 +08:00: 连接成功！
+2017-11-03 16:44 +08:00: [0mGET / [32m200 [0m17.172 ms - 143[0m
+2017-11-03 16:45 +08:00: Error:MongoError: server instance pool was destroyed
+2017-11-03 16:46 +08:00: [0mGET / [0m- [0m- ms - -[0m
+2017-11-03 16:46 +08:00: Error:MongoError: server instance pool was destroyed
+2017-11-03 16:46 +08:00: [0mGET / [0m- [0m- ms - -[0m
+2017-11-03 16:46 +08:00: Error:MongoError: server instance pool was destroyed
+2017-11-03 16:48 +08:00: [0mGET / [0m- [0m- ms - -[0m
+2017-11-03 16:48 +08:00: Error:MongoError: server instance pool was destroyed
+2017-11-03 16:50 +08:00: [0mGET / [0m- [0m- ms - -[0m
+2017-11-03 16:50 +08:00: Error:MongoError: server instance pool was destroyed
+2017-11-03 16:52 +08:00: [0mGET / [0m- [0m- ms - -[0m
+2017-11-03 16:52 +08:00: Error:MongoError: server instance pool was destroyed
+2017-11-03 16:54 +08:00: [0mGET / [0m- [0m- ms - -[0m
+2017-11-03 16:55 +08:00: Error:MongoError: server instance pool was destroyed
+2017-11-03 16:57 +08:00: [0mGET / [0m- [0m- ms - -[0m
+2017-11-03 17:09 +08:00: Error:MongoError: server instance pool was destroyed
+2017-11-03 17:10 +08:00: 连接成功！
+2017-11-03 17:10 +08:00: [0mGET / [32m200 [0m20.245 ms - 143[0m
+2017-11-03 17:10 +08:00: Error:MongoError: server instance pool was destroyed
+2017-11-03 17:10 +08:00: 连接成功！
+2017-11-03 17:10 +08:00: [0mGET / [32m200 [0m25.392 ms - 143[0m
+2017-11-03 17:11 +08:00: 连接成功！
+2017-11-03 17:11 +08:00: [0mGET / [32m200 [0m17.739 ms - 143[0m
+2017-11-03 17:12 +08:00: [0mGET / [31m500 [0m17.016 ms - 2024[0m
+2017-11-03 17:12 +08:00: 连接成功！
+2017-11-03 17:12 +08:00: [0mGET / [32m200 [0m46.327 ms - 143[0m
+2017-11-03 17:12 +08:00: 连接成功！
+2017-11-03 17:12 +08:00: [0mGET / [32m200 [0m8.210 ms - 143[0m
+2017-11-03 17:12 +08:00: 连接成功！
+2017-11-03 17:12 +08:00: [0mGET / [32m200 [0m4.099 ms - 143[0m
+2017-11-03 17:12 +08:00: 连接成功！
+2017-11-03 17:12 +08:00: [0mGET / [32m200 [0m3.779 ms - 143[0m
+2017-11-03 17:12 +08:00: 连接成功！
+2017-11-03 17:12 +08:00: [0mGET / [32m200 [0m4.613 ms - 143[0m
+2017-11-03 17:32 +08:00: [Function: Passport]
+2017-11-03 17:33 +08:00: [Function: Passport]
+2017-11-03 17:33 +08:00: [0mGET / [32m200 [0m8.196 ms - -[0m
+2017-11-03 17:49 +08:00: [0mGET / [31m500 [0m21.107 ms - 2014[0m
+2017-11-03 17:49 +08:00: [0mGET / [31m500 [0m20.339 ms - 1826[0m
+2017-11-03 17:50 +08:00: [0mGET / [31m500 [0m16.307 ms - 1933[0m
+2017-11-03 17:50 +08:00: [0mGET / [32m200 [0m8.287 ms - 64[0m
+2017-11-03 17:53 +08:00: [0mGET / [32m200 [0m7.067 ms - 32[0m
