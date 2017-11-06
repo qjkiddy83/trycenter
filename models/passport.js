@@ -1,7 +1,7 @@
-let client = require('../database/db.js');
+let db = require('../database/db.js');
+let Promise = require('bluebird');
 
-
-module.exports = class Passport{
+class Passport{
 	constructor(args) {
 		this.id = "";
 	    this.username = args.username;
@@ -21,8 +21,16 @@ module.exports = class Passport{
 		// })
 
 	}
-	querySelector(){
-
+	find(condition){
+		return new Promise(function(resolve,reject){
+			db.find('passport',condition).then(function(result){
+				// console.log(result)
+				resolve(result);
+			}).catch(function(err){
+				reject(err)
+			})
+		})
+		
 	}
 	update(){
 
@@ -32,3 +40,4 @@ module.exports = class Passport{
 	}
 }
 
+module.exports = Passport;

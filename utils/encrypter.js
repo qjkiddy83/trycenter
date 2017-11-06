@@ -1,7 +1,7 @@
 const crypto = require('crypto');
 
 let encrypter = {
-    getId() {
+    create() {
         const value = Date.now() + Math.floor(Math.random() * 1E8);
         const hash = crypto.createHash('md5')
             .digest('hex');
